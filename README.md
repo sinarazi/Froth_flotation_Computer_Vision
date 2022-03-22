@@ -1,7 +1,7 @@
 # Instance_segmentation_froth_flotation
 
 Final project of university of Tabriz.
-An state-of-the-art project based on froth flotataion process
+An state-of-the-art project based on froth flotataion process, and the dataset is shown below.
 
 <img src ="Images/1.png" width="300">
 
@@ -26,8 +26,8 @@ accuracy. In my opinion, accuracy of more than 60%, and validation loss of less 
 26) is fabulous in this problem because the labeling process is quite difficult since it requires the
 factory’s operators experience so as to be annotated better.
 
-<img src ="Images/2.png" width="300">
+<img src ="Images/2.png">
 
 # Conclusion:
-
+There are numerous ways so as to solve this project, I would prefer this algorithm due to its convenience and pace, even if instance segmentation can give us more accurate result. However, in realtime projects like this, SSD is better. Finally, the predicted results are shown like this. 
 <img src ="Images/3.png" width="300">
