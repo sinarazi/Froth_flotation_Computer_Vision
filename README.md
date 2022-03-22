@@ -3,6 +3,9 @@
 Final project of university of Tabriz.
 An state-of-the-art project based on froth flotataion process
 
+# Single Shot Detector (SSD) with Residual network 50:
+An state-of-the-art computer vision based algorithms so as to detected projected shadows of the dataset (objects) appropriately.
+
 # Experiments:
 I annotated more than a thousand of the froth flotation dataset by ‘labelimg’, and then converted
 to a single file using pickle to a ‘.p’ file so as to train the whole annotated dataset easier.
