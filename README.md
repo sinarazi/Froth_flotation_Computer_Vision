@@ -29,5 +29,6 @@ factory’s operators experience so as to be annotated better.
 <img src ="Images/2.png">
 
 # Conclusion:
-There are numerous ways so as to solve this project, I would prefer this algorithm due to its convenience and pace, even if instance segmentation can give us more accurate result. However, in realtime projects like this, SSD is better. Finally, the predicted results are shown like this. 
+There are numerous ways so as to solve this project, I would prefer this algorithm due to its convenience and pace, even if instance segmentation can give us more accurate result. However, in realtime projects like this, SSD is better. Finally, the predicted results are shown like this.
+
 <img src ="Images/3.png" width="300">
