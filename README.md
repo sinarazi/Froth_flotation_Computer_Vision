@@ -24,4 +24,6 @@ accuracy. In my opinion, accuracy of more than 60%, and validation loss of less 
 26) is fabulous in this problem because the labeling process is quite difficult since it requires the
 factory’s operators experience so as to be annotated better.
 
+<img src ="Images/1.png" width="100")
+
 # Conclusion:
