@@ -1,6 +1,6 @@
 # Instance_segmentation_froth_flotation
 
-Final project of university of Tabriz.
+Final project of ```University of Tabriz````.
 A cutting-edge project based on froth flotataion process, and the dataset is shown below.
 
 <img src ="Images/1.png" width="300">
