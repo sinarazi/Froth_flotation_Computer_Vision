@@ -1,12 +1,12 @@
 # Instance_segmentation_froth_flotation
 
 Final project of university of Tabriz.
-An state-of-the-art project based on froth flotataion process, and the dataset is shown below.
+A cutting-edge project based on froth flotataion process, and the dataset is shown below.
 
 <img src ="Images/1.png" width="300">
 
 # Single Shot Detector (SSD) with Residual network 50:
-An state-of-the-art computer vision based algorithms so as to detected projected shadows of the dataset (objects) appropriately.
+An state-of-the-art computer vision based algorithms so as to detected projected shadows of the dataset (objects) appropriately. These cluster based objects should be detected by model.
 
 # Experiments:
 I annotated more than a thousand of the froth flotation dataset by ‘labelimg’, and then converted
@@ -29,6 +29,6 @@ factory’s operators experience so as to be annotated better.
 <img src ="Images/2.png">
 
 # Conclusion:
-There are numerous ways so as to solve this project, I would prefer this algorithm due to its convenience and pace, even if instance segmentation can give us more accurate result. However, in realtime projects like this, SSD is better. Finally, the predicted results are shown like this.
+There are numerous ways so as to solve this project, I would prefer this algorithm due to its convenience and fast pace, even if instance segmentation can give us more accurate result. However, in realtime projects like this, SSD is better. Finally, the predicted results are shown like this.
 
 <img src ="Images/3.png" width="300">
