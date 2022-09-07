@@ -1,4 +1,4 @@
-# Instance_segmentation_froth_flotation
+# Froth Flotation through Computer Vision
 
 Final project of ```University of Tabriz```.
 A cutting-edge project based on froth flotataion process, and the dataset is shown below.
