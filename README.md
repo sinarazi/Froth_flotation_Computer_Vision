@@ -1,7 +1,7 @@
 # Froth Flotation through Computer Vision
 
-Final project of ```University of Tabriz```.
-A cutting-edge project based on froth flotataion process, and the dataset is shown below.
+The final project of ```University of Tabriz```.
+A cutting-edge project based on the froth flotation process, and the dataset is shown below.
 
 <img src ="Images/1.png" width="300">
 
